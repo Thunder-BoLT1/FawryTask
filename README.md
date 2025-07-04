@@ -1,15 +1,15 @@
-sample Input(1) :
-	myCart.add(cheese, 2);
-	myCart.add(biscuits, 1);
-	system.checkOut(me, myCart);
- Sample  Output(1) :
- 
- ** Checkout receipt **
-
-Subtotal        350
-Shipping        0
-Amount  350
-Current Balance 650
+sample Input(1) :  
+	myCart.add(cheese, 2);  
+	myCart.add(biscuits, 1);  
+	system.checkOut(me, myCart);  
+ Sample  Output(1) :  
+   
+ ** Checkout receipt **  
+  
+Subtotal        350  
+Shipping        0  
+Amount  350  
+Current Balance 650  
 
 -----------------
 
