@@ -5,7 +5,7 @@ sample Input(1) :
  Sample  Output(1) :
  
  ** Checkout receipt **
-------------
+
 Subtotal        350
 Shipping        0
 Amount  350
@@ -24,7 +24,7 @@ sample Input(2) :
 1xMobile                500g
 Total package weight 0.5kg
 ** Checkout receipt **
-------------
+
 Subtotal        2950
 Shipping        10
 Amount  2960
@@ -42,7 +42,7 @@ sample Input(3) :
 1xMobile                500g
 Total package weight 0.5kg
 ** Checkout receipt **
-------------
+
 Subtotal        2750
 Shipping        10
 Amount  2760
